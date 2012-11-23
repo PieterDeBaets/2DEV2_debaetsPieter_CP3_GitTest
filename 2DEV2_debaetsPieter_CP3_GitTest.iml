@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="Unnamed">
     <configurations>
-      <configuration>
+      <configuration output-folder="$MODULE_DIR$/../../2DEV2_seynhaeveBram_CP3_GitTest">
         <dependencies target-player="11.1">
           <sdk name="4.6.0" />
         </dependencies>
