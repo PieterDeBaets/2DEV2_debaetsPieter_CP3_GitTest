@@ -14,6 +14,7 @@ public class Main_2DEV2_debaetsPieter_CP3_GitTest extends Sprite {
         addChild(textField);
 
         stage.align = StageAlign.TOP_LEFT;
+        trace('test');
     }
 }
 }
