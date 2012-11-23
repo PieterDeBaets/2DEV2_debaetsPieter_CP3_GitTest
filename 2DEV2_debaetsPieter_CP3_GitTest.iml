@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="Flex" version="4">
-  <component name="FlexBuildConfigurationManager" active="2DEV2_debaetsPieter_CP3_GitTest">
+  <component name="FlexBuildConfigurationManager" active="Unnamed">
     <configurations>
-      <configuration name="2DEV2_debaetsPieter_CP3_GitTest" target-platform="Desktop" pure-as="true" main-class="Main_2DEV2_debaetsPieter_CP3_GitTest" output-file="Main_2DEV2_debaetsPieter_CP3_GitTest.swf" output-folder="$MODULE_DIR$/out/production/2DEV2_debaetsPieter_CP3_GitTest">
+      <configuration>
         <dependencies target-player="11.1">
-          <sdk name="flex_sdk_4" />
+          <sdk name="4.6.0" />
         </dependencies>
         <compiler-options />
-        <packaging-air-desktop package-file-name="Main_2DEV2_debaetsPieter_CP3_GitTest" />
+        <packaging-air-desktop />
         <packaging-android />
         <packaging-ios />
       </configuration>
@@ -19,7 +19,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="flex_sdk_4" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="jdk" jdkName="4.6.0" jdkType="Flex SDK Type (new)" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

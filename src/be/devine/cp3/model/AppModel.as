@@ -11,6 +11,7 @@ public class AppModel {
     //Properties
     /*************************************/
 
+    trace('bla bla');
 
     /*************************************/
     //Constructor
